@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(224, 245, 245);
+   font-family: "Andale Mono", AndaleMono, monospace;
+}
+
+header{
+    background-color: rgb(232, 174, 198);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #fff;
+
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+section {
+    float: left;
+    width:70%;
+    margin-bottom: 100px;
+}
+
+aside{
+    float: right;
+    width: 25%;
+}
+
+footer{
+    background-color: aliceblue;
+    clear: both;
+    padding: 50px;
+    margin-top: 200px;
+}
+
+.about{
+    margin: 0 auto;
+    margin-left: 9.4;
+    background-color: rgb(213, 247, 190);
+}
